@@ -1,0 +1,81 @@
+
+:root {
+  --forest: #1E3A2B; --forest2: #2C4E3A; --gold: #A8873E; --cream: #F6F2E7;
+  --rule: #D8D3C4; --ink: #1A1A18; --muted: #6E6A60;
+}
+*, *::before, *::after { box-sizing: border-box; }
+
+@page {
+  size: A4; margin: 20mm 18mm;
+  @bottom-center { content: counter(page); font-family: "Montserrat", sans-serif; font-size: 7pt; color: var(--muted); letter-spacing: .08em; }
+  @bottom-left  { content: "VILAGOZD HOLDINGS LIMITED · CO. NO. 17109348"; font-family: "Montserrat", sans-serif; font-size: 6.2pt; color: var(--muted); letter-spacing: .07em; }
+  @bottom-right { content: "CONFIDENTIAL"; font-family: "Montserrat", sans-serif; font-size: 6.2pt; color: var(--muted); letter-spacing: .12em; }
+}
+@page :first { @bottom-left { content: ""; } @bottom-center { content: ""; } @bottom-right { content: ""; } }
+
+body { font-family: "Cormorant Garamond", "Liberation Serif", serif; font-size: 9.6pt;
+  line-height: 1.52; color: var(--ink); margin: 0; font-weight: 400;
+  font-variant-numeric: lining-nums tabular-nums; }
+p { margin: 0 0 6pt 0; text-align: justify; }
+strong { font-weight: 700; color: var(--forest); }
+
+.masthead { display: flex; justify-content: space-between; align-items: flex-end;
+  border-bottom: 1.6pt solid var(--forest); padding-bottom: 5pt; margin-bottom: 16pt; }
+.masthead img.wm { height: 34pt; width: auto; display: block; margin-bottom: 2pt; }
+.wordsub { font-family: "Montserrat", sans-serif; font-size: 5.9pt; color: var(--muted);
+  letter-spacing: .34em; margin-top: 3pt; border-top: .6pt solid var(--rule); padding-top: 3pt; }
+.meta { font-family: "Montserrat", sans-serif; font-size: 6.4pt; color: var(--muted);
+  letter-spacing: .13em; text-align: right; line-height: 1.7; }
+
+h1.doctitle { font-size: 23pt; font-weight: 700; color: var(--forest); margin: 0 0 2pt 0; line-height: 1.1; }
+.subtitle { font-style: italic; font-size: 11pt; color: var(--forest2); margin: 0 0 14pt 0; }
+h2 { font-family: "Montserrat", sans-serif; font-size: 11.2pt; font-weight: 700; text-transform: uppercase;
+  letter-spacing: .055em; color: var(--forest); border-left: 3.4pt solid var(--gold);
+  padding: 1pt 0 1pt 8pt; margin: 20pt 0 9pt 0; page-break-after: avoid; }
+h3 { font-family: "Montserrat", sans-serif; font-size: 8.5pt; font-weight: 700; text-transform: uppercase;
+  letter-spacing: .07em; color: var(--forest2); margin: 13pt 0 5pt 0; page-break-after: avoid; }
+h4 { font-size: 10.4pt; font-weight: 700; color: var(--forest); margin: 10pt 0 4pt 0; page-break-after: avoid; }
+
+table { width: 100%; border-collapse: collapse; margin: 7pt 0 8pt 0; font-size: 8.9pt;
+  page-break-inside: avoid; table-layout: fixed; }
+thead th { font-family: "Montserrat", sans-serif; font-size: 7.6pt; font-weight: 700; text-transform: uppercase;
+  letter-spacing: .055em; background: var(--forest); color: #fff; text-align: left;
+  padding: 4.5pt 6pt; vertical-align: bottom; }
+tbody td { padding: 4pt 6pt; border-bottom: .55pt solid var(--rule); vertical-align: top; }
+tbody tr:nth-child(even) td { background: #FBFAF6; }
+td.num { text-align: right; font-variant-numeric: lining-nums tabular-nums; white-space: nowrap; }
+th.num { text-align: right; white-space: normal; }
+tr.total td { background: var(--cream); font-weight: 700; color: var(--forest);
+  border-top: 1pt solid var(--forest); border-bottom: 1pt solid var(--forest); }
+tr.sub td { background: #EFEDE4; font-weight: 700; color: var(--forest2); }
+table.kv thead { display: none; }
+table.kv td:first-child { font-weight: 700; color: var(--forest); }
+table.long { page-break-inside: auto; }
+table.long tr { page-break-inside: avoid; }
+thead { display: table-header-group; }
+
+.callout { background: var(--cream); border-left: 3.4pt solid var(--forest); padding: 8pt 11pt;
+  margin: 9pt 0; page-break-inside: avoid; }
+.callout.warn { border-left-color: var(--gold); }
+.callout .h { font-family: "Montserrat", sans-serif; font-size: 7.4pt; font-weight: 700;
+  text-transform: uppercase; letter-spacing: .1em; color: var(--forest); margin-bottom: 5pt; }
+.callout.warn .h { color: #7A5F1F; }
+.callout p:last-child { margin-bottom: 0; }
+
+.src { font-size: 7.4pt; font-style: italic; color: var(--muted); margin: -3pt 0 9pt 0; }
+figure { margin: 9pt 0 11pt 0; page-break-inside: avoid; }
+figure img { width: 100%; height: auto; display: block; border-bottom: 2pt solid var(--gold); }
+figure figcaption { font-size: 7.8pt; font-style: italic; color: var(--muted); margin-top: 4pt;
+  text-align: center; line-height: 1.35; }
+.figrow { margin: 9pt 0 11pt 0; page-break-inside: avoid; font-size: 0; text-align: center; }
+.figrow figure.half { width: calc((100% - 30px) / 2); display: inline-block; vertical-align: top; margin: 0 30px 0 0; }
+.figrow figure.half.last { margin-right: 0; }
+.figrow figure.half figcaption { min-height: 20pt; }
+
+ul { margin: 4pt 0 7pt 0; padding-left: 13pt; }
+li { margin-bottom: 2.5pt; }
+.pb { page-break-before: always; }
+.endnote { border-top: .6pt solid var(--rule); margin-top: 16pt; padding-top: 7pt;
+  font-size: 7.4pt; font-style: italic; color: var(--muted); line-height: 1.5; }
+.endnote p { text-align: left; margin-bottom: 4pt; }
+

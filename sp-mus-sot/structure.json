@@ -1,0 +1,739 @@
+{
+ "anchors": [
+  [
+   "SP-MUS-s1",
+   2,
+   "What is in this plan"
+  ],
+  [
+   "SP-MUS-s2",
+   2,
+   "Where the attraction fits in the wider Vilagozd vision"
+  ],
+  [
+   "SP-MUS-s3",
+   2,
+   "1. What is Vilagozd?"
+  ],
+  [
+   "SP-MUS-s3-1",
+   3,
+   "Why Ljubljana has a natural starting point"
+  ],
+  [
+   "SP-MUS-s3-2",
+   3,
+   "The story guests step into"
+  ],
+  [
+   "SP-MUS-s4",
+   2,
+   "2. Why this attraction comes first"
+  ],
+  [
+   "SP-MUS-s4-1",
+   3,
+   "The business models we studied"
+  ],
+  [
+   "SP-MUS-s4-2",
+   3,
+   "Why Meow Wolf is the main model"
+  ],
+  [
+   "SP-MUS-s4-3",
+   3,
+   "A premium product, not a cheap imitation"
+  ],
+  [
+   "SP-MUS-s5",
+   2,
+   "3. What guests will experience"
+  ],
+  [
+   "SP-MUS-s5-1",
+   3,
+   "Six areas at opening: the collection and five magical worlds"
+  ],
+  [
+   "SP-MUS-s5-2",
+   3,
+   "How Slovenian culture becomes part of the fun"
+  ],
+  [
+   "SP-MUS-s5-3",
+   3,
+   "Additions after the first trading year"
+  ],
+  [
+   "SP-MUS-s5-4",
+   3,
+   "Why one part is designed for very young children"
+  ],
+  [
+   "SP-MUS-s5-5",
+   3,
+   "A detailed look at the first Meow Wolf business"
+  ],
+  [
+   "SP-MUS-s6",
+   2,
+   "4. Why we believe people may come"
+  ],
+  [
+   "SP-MUS-s6-1",
+   3,
+   "Why we believe the city is missing this kind of product"
+  ],
+  [
+   "SP-MUS-s6-2",
+   3,
+   "How we test demand before we build"
+  ],
+  [
+   "SP-MUS-s6-3",
+   3,
+   "What nearby entertainment businesses are already doing"
+  ],
+  [
+   "SP-MUS-s7",
+   2,
+   "5. Where should it open?"
+  ],
+  [
+   "SP-MUS-s7-1",
+   3,
+   "Three choices that serve different customers"
+  ],
+  [
+   "SP-MUS-s7-2",
+   3,
+   "How we keep the building from hurting the business"
+  ],
+  [
+   "SP-MUS-s7-3",
+   3,
+   "How we pick the right kind of demand"
+  ],
+  [
+   "SP-MUS-s8",
+   2,
+   "6. How the experience earns money"
+  ],
+  [
+   "SP-MUS-s8-1",
+   3,
+   "The Beehive: a product children make themselves"
+  ],
+  [
+   "SP-MUS-s8-2",
+   3,
+   "The Iskra: an extra adventure you can take home"
+  ],
+  [
+   "SP-MUS-s8-3",
+   3,
+   "The Iskra: an optional interactive upcharge device"
+  ],
+  [
+   "SP-MUS-s8-4",
+   3,
+   "Fresh reasons to come back"
+  ],
+  [
+   "SP-MUS-s8-5",
+   3,
+   "Food, adults, groups and events"
+  ],
+  [
+   "SP-MUS-s8-6",
+   3,
+   "Two questions we track each week"
+  ],
+  [
+   "SP-MUS-s8-7",
+   3,
+   "How schools, groups, birthdays and adults become repeat customers"
+  ],
+  [
+   "SP-MUS-s8-8",
+   3,
+   "How food and events increase spending"
+  ],
+  [
+   "SP-MUS-s9",
+   2,
+   "7. How we attract guests and learn from them"
+  ],
+  [
+   "SP-MUS-s9-1",
+   3,
+   "Four main visitor groups"
+  ],
+  [
+   "SP-MUS-s9-2",
+   3,
+   "A simple way to grow sales"
+  ],
+  [
+   "SP-MUS-s9-3",
+   3,
+   "The attraction is also a test lab for our stories"
+  ],
+  [
+   "SP-MUS-s9-4",
+   3,
+   "What marketing will do by stage"
+  ],
+  [
+   "SP-MUS-s9-5",
+   3,
+   "Awareness campaign: before launch and after it"
+  ],
+  [
+   "SP-MUS-s10",
+   2,
+   "8. How we run it safely and well"
+  ],
+  [
+   "SP-MUS-s10-1",
+   3,
+   "The staff and safety plan"
+  ],
+  [
+   "SP-MUS-s10-2",
+   3,
+   "How we keep a premium standard"
+  ],
+  [
+   "SP-MUS-s10-3",
+   3,
+   "A great experience must also be a great place to work"
+  ],
+  [
+   "SP-MUS-s11",
+   2,
+   "9. The investment and return goal"
+  ],
+  [
+   "SP-MUS-s11-1",
+   3,
+   "How the Museum ask developed"
+  ],
+  [
+   "SP-MUS-s11-2",
+   3,
+   "Museum opening gates"
+  ],
+  [
+   "SP-MUS-s11-3",
+   3,
+   "Where the lean savings would come from"
+  ],
+  [
+   "SP-MUS-s11-4",
+   3,
+   "How the investor is repaid"
+  ],
+  [
+   "SP-MUS-s11-5",
+   3,
+   "Modeled results"
+  ],
+  [
+   "SP-MUS-s11-6",
+   3,
+   "How the attraction might perform"
+  ],
+  [
+   "SP-MUS-s11-7",
+   3,
+   "What could change the result?"
+  ],
+  [
+   "SP-MUS-s11-8",
+   3,
+   "Design and opening sequence"
+  ],
+  [
+   "SP-MUS-s11-9",
+   3,
+   "VAT and product economics"
+  ],
+  [
+   "SP-MUS-s12",
+   2,
+   "10. Seven goals that make the plan real"
+  ],
+  [
+   "SP-MUS-s13",
+   2,
+   "Prove that enough people will buy a ticket"
+  ],
+  [
+   "SP-MUS-s13-1",
+   3,
+   "Understand who wants to visit"
+  ],
+  [
+   "SP-MUS-s13-2",
+   3,
+   "Show the price works"
+  ],
+  [
+   "SP-MUS-s13-3",
+   3,
+   "Check the number fits the building"
+  ],
+  [
+   "SP-MUS-s14",
+   2,
+   "Find a building that protects the business"
+  ],
+  [
+   "SP-MUS-s14-1",
+   3,
+   "Compare at least three real sites, each close to a paying audience"
+  ],
+  [
+   "SP-MUS-s14-2",
+   3,
+   "Make the lease usable for the future"
+  ],
+  [
+   "SP-MUS-s15",
+   2,
+   "Build the first six zones without losing quality"
+  ],
+  [
+   "SP-MUS-s15-1",
+   3,
+   "Turn the story into plans builders can price"
+  ],
+  [
+   "SP-MUS-s15-2",
+   3,
+   "Buy what can be maintained"
+  ],
+  [
+   "SP-MUS-s16",
+   2,
+   "Run a safe attraction that earns money"
+  ],
+  [
+   "SP-MUS-s16-1",
+   3,
+   "Build the full staff rota"
+  ],
+  [
+   "SP-MUS-s16-2",
+   3,
+   "Create a workplace staff are proud to recommend"
+  ],
+  [
+   "SP-MUS-s16-3",
+   3,
+   "Protect the guest and the building"
+  ],
+  [
+   "SP-MUS-s16-4",
+   3,
+   "Keep score every week"
+  ],
+  [
+   "SP-MUS-s17",
+   2,
+   "Sell tickets and give people a reason to return"
+  ],
+  [
+   "SP-MUS-s17-1",
+   3,
+   "Help customers find and book us"
+  ],
+  [
+   "SP-MUS-s17-2",
+   3,
+   "Sell extras that guests choose, not products that interrupt the story"
+  ],
+  [
+   "SP-MUS-s17-3",
+   3,
+   "Invite happy guests to return and refer friends with consent"
+  ],
+  [
+   "SP-MUS-s18",
+   2,
+   "Protect the attraction investment"
+  ],
+  [
+   "SP-MUS-s18-1",
+   3,
+   "Spend in steps"
+  ],
+  [
+   "SP-MUS-s18-2",
+   3,
+   "Make the payout rules easy to verify"
+  ],
+  [
+   "SP-MUS-s18-3",
+   3,
+   "Test the return before committing"
+  ],
+  [
+   "SP-MUS-s19",
+   2,
+   "Open carefully, learn and decide what comes next"
+  ],
+  [
+   "SP-MUS-s19-1",
+   3,
+   "Use a simple approval path"
+  ],
+  [
+   "SP-MUS-s19-2",
+   3,
+   "Share what the first attraction teaches us"
+  ],
+  [
+   "SP-MUS-s19-3",
+   3,
+   "Keep real exit choices open"
+  ],
+  [
+   "SP-MUS-s20",
+   2,
+   "After Ljubljana: how the idea could grow"
+  ],
+  [
+   "SP-MUS-s20-1",
+   3,
+   "Keep running a strong Ljubljana attraction"
+  ],
+  [
+   "SP-MUS-s20-2",
+   3,
+   "Open a new location or license the format"
+  ],
+  [
+   "SP-MUS-s20-3",
+   3,
+   "Build awareness for the future resort"
+  ],
+  [
+   "SP-MUS-s21",
+   2,
+   "The first 90 days"
+  ],
+  [
+   "SP-MUS-s21-1",
+   3,
+   "The risks we watch"
+  ],
+  [
+   "SP-MUS-s22",
+   2,
+   "Sources and what the figures mean"
+  ],
+  [
+   "SP-MUS-s22-1",
+   3,
+   "Independent and company-published references"
+  ],
+  [
+   "SP-MUS-s22-2",
+   3,
+   "Additional primary and comparable sources"
+  ],
+  [
+   "SP-MUS-s22-3",
+   3,
+   "Planning figures, not certified market facts"
+  ],
+  [
+   "SP-MUS-s22-4",
+   3,
+   "Simple meanings of financial words"
+  ],
+  [
+   "SP-MUS-s22-5",
+   3,
+   "What must still be proven"
+  ]
+ ],
+ "tables": [
+  {
+   "t": 1,
+   "anchor": "SP-MUS-s4-1",
+   "cols": 3,
+   "widths": [
+    "33",
+    "33",
+    "33"
+   ],
+   "num": [],
+   "classes": [],
+   "total_rows": []
+  },
+  {
+   "t": 2,
+   "anchor": "SP-MUS-s5-5",
+   "cols": 3,
+   "widths": [
+    "33",
+    "33",
+    "33"
+   ],
+   "num": [
+    2,
+    3
+   ],
+   "classes": [],
+   "total_rows": [
+    5
+   ]
+  },
+  {
+   "t": 3,
+   "anchor": "SP-MUS-s6",
+   "cols": 3,
+   "widths": [
+    "33",
+    "33",
+    "33"
+   ],
+   "num": [],
+   "classes": [],
+   "total_rows": []
+  },
+  {
+   "t": 4,
+   "anchor": "SP-MUS-s6-3",
+   "cols": 4,
+   "widths": [
+    "25",
+    "25",
+    "25",
+    "25"
+   ],
+   "num": [
+    2,
+    3
+   ],
+   "classes": [],
+   "total_rows": []
+  },
+  {
+   "t": 5,
+   "anchor": "SP-MUS-s7-1",
+   "cols": 3,
+   "widths": [
+    "33",
+    "33",
+    "33"
+   ],
+   "num": [],
+   "classes": [],
+   "total_rows": []
+  },
+  {
+   "t": 6,
+   "anchor": "SP-MUS-s7-3",
+   "cols": 4,
+   "widths": [
+    "25",
+    "25",
+    "25",
+    "25"
+   ],
+   "num": [],
+   "classes": [],
+   "total_rows": []
+  },
+  {
+   "t": 7,
+   "anchor": "SP-MUS-s8",
+   "cols": 3,
+   "widths": [
+    "33",
+    "33",
+    "33"
+   ],
+   "num": [],
+   "classes": [],
+   "total_rows": []
+  },
+  {
+   "t": 8,
+   "anchor": "SP-MUS-s8-7",
+   "cols": 4,
+   "widths": [
+    "25",
+    "25",
+    "25",
+    "25"
+   ],
+   "num": [],
+   "classes": [],
+   "total_rows": []
+  },
+  {
+   "t": 9,
+   "anchor": "SP-MUS-s9-4",
+   "cols": 3,
+   "widths": [
+    "33",
+    "33",
+    "33"
+   ],
+   "num": [],
+   "classes": [],
+   "total_rows": []
+  },
+  {
+   "t": 10,
+   "anchor": "SP-MUS-s9-5",
+   "cols": 3,
+   "widths": [
+    "33",
+    "33",
+    "33"
+   ],
+   "num": [],
+   "classes": [],
+   "total_rows": []
+  },
+  {
+   "t": 11,
+   "anchor": "SP-MUS-s10-3",
+   "cols": 3,
+   "widths": [
+    "33",
+    "33",
+    "33"
+   ],
+   "num": [],
+   "classes": [],
+   "total_rows": []
+  },
+  {
+   "t": 12,
+   "anchor": "SP-MUS-s11-2",
+   "cols": 5,
+   "widths": [
+    "34",
+    "16",
+    "16",
+    "16",
+    "18"
+   ],
+   "num": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "classes": [],
+   "total_rows": [
+    6
+   ]
+  },
+  {
+   "t": 13,
+   "anchor": "SP-MUS-s11-3",
+   "cols": 5,
+   "widths": [
+    "24",
+    "14",
+    "13",
+    "14",
+    "35"
+   ],
+   "num": [
+    2,
+    3,
+    4
+   ],
+   "classes": [
+    "long"
+   ],
+   "total_rows": [
+    9
+   ]
+  },
+  {
+   "t": 14,
+   "anchor": "SP-MUS-s11-5",
+   "cols": 6,
+   "widths": [
+    "30",
+    "15",
+    "13",
+    "12",
+    "15",
+    "15"
+   ],
+   "num": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "classes": [],
+   "total_rows": []
+  },
+  {
+   "t": 15,
+   "anchor": "SP-MUS-s11-9",
+   "cols": 3,
+   "widths": [
+    "33",
+    "33",
+    "33"
+   ],
+   "num": [],
+   "classes": [],
+   "total_rows": []
+  },
+  {
+   "t": 16,
+   "anchor": "SP-MUS-s12",
+   "cols": 3,
+   "widths": [
+    "33",
+    "33",
+    "33"
+   ],
+   "num": [],
+   "classes": [],
+   "total_rows": []
+  },
+  {
+   "t": 17,
+   "anchor": "SP-MUS-s21",
+   "cols": 3,
+   "widths": [
+    "33",
+    "33",
+    "33"
+   ],
+   "num": [],
+   "classes": [],
+   "total_rows": []
+  },
+  {
+   "t": 18,
+   "anchor": "SP-MUS-s21-1",
+   "cols": 3,
+   "widths": [
+    "33",
+    "33",
+    "33"
+   ],
+   "num": [],
+   "classes": [],
+   "total_rows": []
+  }
+ ]
+}
