@@ -1,0 +1,599 @@
+{
+ "_source": "projects/vilagozd-sot/canon/FACT_REGISTER.md, CR-2026-11-21-03 (length 33175, md5 090c8b243530dce023018d1d390aa807)",
+ "pz.total": [
+  6548982.38,
+  "EUR"
+ ],
+ "pz.reduction.founder_pay": [
+  612000.0,
+  "EUR"
+ ],
+ "mus.full": [
+  4756767.86,
+  "EUR"
+ ],
+ "mus.lean": [
+  3856767.86,
+  "EUR"
+ ],
+ "mus.lean_savings": [
+  900000,
+  "EUR"
+ ],
+ "mus.protected_liquidity": [
+  750000.0,
+  "EUR"
+ ],
+ "mus.hurdle_irr": [
+  15.0,
+  "%"
+ ],
+ "mus.draw.validation": [
+  160883.93,
+  "EUR"
+ ],
+ "mus.draw.extension": [
+  160883.93,
+  "EUR"
+ ],
+ "mus.draw.lease_design.full": [
+  1674000,
+  "EUR"
+ ],
+ "mus.draw.lease_design.lean": [
+  1624000,
+  "EUR"
+ ],
+ "mus.draw.construction.full": [
+  1650000,
+  "EUR"
+ ],
+ "mus.draw.construction.lean": [
+  800000,
+  "EUR"
+ ],
+ "mus.draw.completion": [
+  1111000,
+  "EUR"
+ ],
+ "mus.year2_additions": [
+  590000,
+  "EUR"
+ ],
+ "mus.dragon_thrill": [
+  250000,
+  "EUR"
+ ],
+ "mus.original_installation": [
+  3410000,
+  "EUR"
+ ],
+ "mus.founder_payroll_contingency": [
+  51000,
+  "EUR"
+ ],
+ "mus.attendance_study": [
+  70000,
+  "EUR"
+ ],
+ "mus.admission_price": [
+  27,
+  "EUR"
+ ],
+ "mus.visits_target": [
+  250000,
+  "visits"
+ ],
+ "mus.downside_visits": [
+  225000,
+  "visits"
+ ],
+ "mus.downside_admission": [
+  25,
+  "EUR"
+ ],
+ "mus.downside_acquisition": [
+  3.75,
+  "EUR"
+ ],
+ "mus.full_combined_downside": [
+  4921767.86,
+  "EUR"
+ ],
+ "mus.lean_combined_downside": [
+  3936767.86,
+  "EUR"
+ ],
+ "mus.full_combined.hurdle_gap": [
+  10636996.72,
+  "EUR"
+ ],
+ "mus.full_combined.peak_gap": [
+  210000,
+  "EUR"
+ ],
+ "mus.lean_combined.hurdle_gap": [
+  7155051.4,
+  "EUR"
+ ],
+ "mus.lean_combined.peak_gap": [
+  210000,
+  "EUR"
+ ],
+ "mus.full_stress.hurdle_gap": [
+  93823.75,
+  "EUR"
+ ],
+ "mus.xirr.full_base": [
+  15.0,
+  "%"
+ ],
+ "mus.xirr.full_stress": [
+  14.88,
+  "%"
+ ],
+ "mus.xirr.lean_base": [
+  15.0,
+  "%"
+ ],
+ "mus.xirr.lean_stress": [
+  15.0,
+  "%"
+ ],
+ "mus.xirr.full_combined": [
+  -2.0,
+  "%"
+ ],
+ "mus.xirr.lean_combined": [
+  1.67,
+  "%"
+ ],
+ "mus.hurdle_year.full_base": [
+  9,
+  "year"
+ ],
+ "mus.hurdle_year.full_stress": [
+  11,
+  "year"
+ ],
+ "mus.hurdle_year.lean_base": [
+  8,
+  "year"
+ ],
+ "mus.hurdle_year.lean_stress": [
+  8,
+  "year"
+ ],
+ "mus.hurdle_year.horizon": [
+  35,
+  "years"
+ ],
+ "mus.holdings_first_year.full": [
+  10,
+  "year"
+ ],
+ "mus.holdings_first_year.lean": [
+  9,
+  "year"
+ ],
+ "mus.sweep_share": [
+  90.0,
+  "%"
+ ],
+ "mus.cash_stress_haircut": [
+  10.0,
+  "%"
+ ],
+ "mus.downside_overrun": [
+  10.0,
+  "%"
+ ],
+ "mus.refresh_annual": [
+  100000,
+  "EUR"
+ ],
+ "mus.refresh_major": [
+  150000,
+  "EUR"
+ ],
+ "mus.founder_payroll_adjustment": [
+  153000,
+  "EUR"
+ ],
+ "mus.base.launch_net_sales": [
+  7906186.84033,
+  "EUR"
+ ],
+ "mus.base.operating_cash": [
+  1827292.134357,
+  "EUR"
+ ],
+ "mus.annual.legacy_visits": [
+  200000,
+  "visits"
+ ],
+ "mus.annual.legacy.net_sales": [
+  6324949.47227,
+  "EUR"
+ ],
+ "mus.annual.legacy.operating_cash": [
+  1224267.828832,
+  "EUR"
+ ],
+ "mus.annual.legacy.hurdle_year": [
+  22,
+  "year"
+ ],
+ "mus.annual.full_stress.hurdle_gap": [
+  78514.647142,
+  "EUR"
+ ],
+ "mus.capacity.fail_visits": [
+  300000,
+  "visits"
+ ],
+ "mus.capacity.peak_hourly_base": [
+  281.25,
+  "per hour"
+ ],
+ "mus.capacity.modeled_limit": [
+  288.1666667,
+  "per hour"
+ ],
+ "mus.capacity.headroom": [
+  15.0,
+  "%"
+ ],
+ "mus.capacity.design_threshold": [
+  330.8823529,
+  "per hour"
+ ],
+ "mus.capacity.required_hourly": [
+  331,
+  "per hour"
+ ],
+ "mus.lean_savings.construction": [
+  850000,
+  "EUR"
+ ],
+ "mus.lean_savings.lease_design": [
+  50000,
+  "EUR"
+ ],
+ "mus.retail_per_guest": [
+  6,
+  "EUR"
+ ],
+ "mus.bee.attachment": [
+  10.0,
+  "%"
+ ],
+ "mus.bee.price": [
+  25,
+  "EUR"
+ ],
+ "mus.bee.cost": [
+  12,
+  "EUR"
+ ],
+ "mus.iskra_device.attachment": [
+  20.0,
+  "%"
+ ],
+ "mus.iskra_device.price": [
+  30,
+  "EUR"
+ ],
+ "mus.iskra_device.cost": [
+  10,
+  "EUR"
+ ],
+ "mus.open_days": [
+  320,
+  "days"
+ ],
+ "mus.avg_daily_guests_base": [
+  781.25,
+  "guests"
+ ],
+ "mus.staff.peak_on_duty": [
+  12,
+  "people"
+ ],
+ "mus.staff.scenario_visits": [
+  200000,
+  "visits"
+ ],
+ "mus.staff.fte_y1": [
+  22.18604651,
+  "FTE"
+ ],
+ "mus.staff.cost_y1": [
+  790883.72093,
+  "EUR"
+ ],
+ "mus.staff.fte_add_y2": [
+  1.5,
+  "FTE"
+ ],
+ "mus.staff.fte_add_y3": [
+  2,
+  "FTE"
+ ],
+ "mus.mix.city_tourists": [
+  70000,
+  "visits"
+ ],
+ "mus.mix.regional_family": [
+  140000,
+  "visits"
+ ],
+ "mus.mix.school_tour_corporate": [
+  40000,
+  "visits"
+ ],
+ "mus.company_payroll_annual": [
+  204000,
+  "EUR"
+ ],
+ "mus.distribution_ratio": [
+  75.0,
+  "%"
+ ],
+ "mus.scope.entrance.current": [
+  250000,
+  "EUR"
+ ],
+ "mus.scope.entrance.saving": [
+  125000,
+  "EUR"
+ ],
+ "mus.scope.entrance.lean": [
+  125000,
+  "EUR"
+ ],
+ "mus.scope.forest.current": [
+  400000,
+  "EUR"
+ ],
+ "mus.scope.forest.saving": [
+  80000,
+  "EUR"
+ ],
+ "mus.scope.forest.lean": [
+  320000,
+  "EUR"
+ ],
+ "mus.scope.cave.current": [
+  600000,
+  "EUR"
+ ],
+ "mus.scope.cave.saving": [
+  90000,
+  "EUR"
+ ],
+ "mus.scope.cave.lean": [
+  510000,
+  "EUR"
+ ],
+ "mus.scope.unicorn.current": [
+  220000,
+  "EUR"
+ ],
+ "mus.scope.unicorn.saving": [
+  130000,
+  "EUR"
+ ],
+ "mus.scope.unicorn.lean": [
+  90000,
+  "EUR"
+ ],
+ "mus.scope.elven.current": [
+  210000,
+  "EUR"
+ ],
+ "mus.scope.elven.saving": [
+  115000,
+  "EUR"
+ ],
+ "mus.scope.elven.lean": [
+  95000,
+  "EUR"
+ ],
+ "mus.scope.building.current": [
+  550000,
+  "EUR"
+ ],
+ "mus.scope.building.saving": [
+  250000,
+  "EUR"
+ ],
+ "mus.scope.building.lean": [
+  300000,
+  "EUR"
+ ],
+ "mus.scope.av.current": [
+  200000,
+  "EUR"
+ ],
+ "mus.scope.av.saving": [
+  60000,
+  "EUR"
+ ],
+ "mus.scope.av.lean": [
+  140000,
+  "EUR"
+ ],
+ "mus.scope.design.current": [
+  200000,
+  "EUR"
+ ],
+ "mus.scope.design.saving": [
+  50000,
+  "EUR"
+ ],
+ "mus.scope.design.lean": [
+  150000,
+  "EUR"
+ ],
+ "mus.rent.market_low": [
+  20000,
+  "EUR per month"
+ ],
+ "mus.rent.market_high": [
+  50000,
+  "EUR per month"
+ ],
+ "mus.rent.target_monthly": [
+  30000,
+  "EUR per month"
+ ],
+ "mus.company_payroll_build": [
+  408000,
+  "EUR"
+ ],
+ "mus.company_payroll_year3_option": [
+  204000,
+  "EUR"
+ ],
+ "mus.cap_unitemised": [
+  580000.0,
+  "EUR"
+ ],
+ "angel.slots": [
+  8,
+  "slots"
+ ],
+ "angel.slot_amount": [
+  30353,
+  "EUR"
+ ],
+ "angel.total": [
+  242824,
+  "EUR"
+ ],
+ "angel.draw1.amount": [
+  81940,
+  "EUR"
+ ],
+ "angel.draw1.date": [
+  "2027-01-31",
+  "date"
+ ],
+ "angel.draw1.baseline_usd": [
+  49340,
+  "USD"
+ ],
+ "angel.draw1.ad_cap_usd": [
+  7900,
+  "USD"
+ ],
+ "angel.draw1.former_employee": [
+  12000,
+  "EUR"
+ ],
+ "angel.draw1.ecology": [
+  8052,
+  "EUR"
+ ],
+ "angel.draw1.trademark": [
+  1700,
+  "EUR"
+ ],
+ "angel.draw1.attendance_critique": [
+  2000,
+  "EUR"
+ ],
+ "angel.draw1.ip_appraisal": [
+  6100,
+  "EUR"
+ ],
+ "angel.draw2.amount": [
+  80442,
+  "EUR"
+ ],
+ "angel.draw2.date": [
+  "2027-02-01",
+  "date"
+ ],
+ "angel.draw2.team": [
+  27000,
+  "EUR"
+ ],
+ "angel.draw2.studies": [
+  40000,
+  "EUR"
+ ],
+ "angel.draw2.travel_research": [
+  10000,
+  "EUR"
+ ],
+ "angel.draw2.reserve": [
+  3442,
+  "EUR"
+ ],
+ "angel.draw3.amount": [
+  80442,
+  "EUR"
+ ],
+ "angel.draw3.date": [
+  "2027-04-01",
+  "date"
+ ],
+ "angel.draw3.team": [
+  54000,
+  "EUR"
+ ],
+ "angel.draw3.reserve": [
+  26442,
+  "EUR"
+ ],
+ "angel.museum_conversion_per_slot": [
+  1,
+  "%"
+ ],
+ "angel.museum_conversion_total": [
+  8,
+  "%"
+ ],
+ "angel.cap.later_investors": [
+  62,
+  "%"
+ ],
+ "angel.cap.holdings": [
+  30,
+  "%"
+ ],
+ "angel.buyout_multiple": [
+  1.3,
+  "x"
+ ],
+ "angel.buyout_total": [
+  315671.2,
+  "EUR"
+ ],
+ "angel.buyout_premium_total": [
+  72847.2,
+  "EUR"
+ ],
+ "angel.buyout_premium_per_slot": [
+  9105.9,
+  "EUR"
+ ],
+ "angel.fallback_per_slot": [
+  0.5,
+  "%"
+ ],
+ "angel.fallback_cap": [
+  4,
+  "%"
+ ],
+ "angel.fallback_date": [
+  "2028-12-31",
+  "date"
+ ],
+ "fx.eur_per_usd_planning": [
+  0.91,
+  "EUR/USD"
+ ]
+}
